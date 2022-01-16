@@ -1,1 +1,2 @@
 merge
+GitHub hosts your source code projects in a variety of different programming languages and keeps track of the various changes made to every iteration. So, the “Git” implies the version control system; a tool which allows developers to keep track of the constant revisions to their code.
